@@ -7,5 +7,5 @@ Hello! I’m Elliot, a software developer / technical lead based in Nottingham. 
 Feel free to use any of the code hosted here on [GitHub](https://github.com/elliotjreed?tab=repositories), and if you have any questions or are stuck on something give me a shout.
 
 <p align="center">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=elliotjreed&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&hide=issues&theme=nightowl" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elliotjreed&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=elliotjreed&hide_rank=true&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&hide=issues&theme=nightowl" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elliotjreed&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
 </p>
