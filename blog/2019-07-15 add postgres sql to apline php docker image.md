@@ -13,4 +13,3 @@ RUN apk add --update --no-cache libpq && \
     docker-php-ext-install pdo_pgsql pgsql && \
     apk del .build-deps
 ```
-
