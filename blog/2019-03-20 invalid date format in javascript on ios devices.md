@@ -7,13 +7,13 @@ Other broswers have their own implementation and accept this format, but for Saf
 So the date would now look like:
 
 ```javascript
-new Date("2019-03-20T11:30:00")
+const date = new Date("2019-03-20T11:30:00")
 ```
 
 If you're injecting the `Date` with a string from PHP you can use the following to work cross-browser which will also be more human-readable:
 
 ```php
-<script>
-  new Date("<?php echo (new DateTime())->format('D M j G:i:s'); ?>")
-</script>
+<?php
+
+$date = (new DateTime())->format('D M j G:i:s');
 ```
