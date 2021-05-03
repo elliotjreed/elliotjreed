@@ -5,7 +5,7 @@
 Technical Lead with nine years software development and management experience primarily within the multi-channel ecommerce industry.
 Developed a wide range of internal and external platforms, websites, and tools in various programming languages including PHP, Javascript, and SQL using various APIs and frameworks such as Symfony and React JS.
 Set up and maintained hosting systems and continuous integration flows using Linux, Docker, Ansible, NginX, Git, and various DevOps tools.
-Worked primarily with Agile / Scrum methodologies with a focus on test-driven developments and SOLID design principles.
+Worked primarily with Agile / Scrum methodologies with a focus on test-driven development and SOLID design principles.
 
 ## Employment
 
