@@ -2,9 +2,12 @@
 
 ## Summary
 
-Technical Lead with nine years software development and management experience primarily within the multi-channel ecommerce industry.
-Developed a wide range of internal and external platforms, websites, and tools in various programming languages including PHP, Javascript, and SQL using various APIs and frameworks such as Symfony and React JS.
-Set up and maintained hosting systems and continuous integration flows using Linux, Docker, Ansible, NginX, Git, and various DevOps tools.
+Technical Lead with nine years software development and management experience.
+
+Developed a wide range of internal and external platforms, websites, and tools in various programming languages including PHP, Javascript, and SQL using various APIs and frameworks such as Symfony and React.
+
+Set up and maintained hosting systems and continuous integration using Linux, Docker, Ansible, NginX, Git, and various DevOps tools.
+
 Worked primarily with Agile / Scrum methodologies with a focus on test-driven development and SOLID design principles.
 
 ## Employment
@@ -15,20 +18,20 @@ Responsible for designing, developing, and maintaining customer-facing websites 
 
 - Trained developers in test-driven development, DevOps, SOLID design principles, and clean code practices;
 - Introduced a wide range of logging and analytics implementations;
-- Integrated payment providers such as Braintree, PayPal, and Stripe;
-- Migrated infrastructure from traditional server architecture to automated container-based builds via Continuous Integration;
+- Integrated payment providers including Braintree and Stripe;
+- Migrated infrastructure from traditional server architecture to automated container-based builds via Continuous Integration, resulting in a 70% cost saving;
 - Integrated third-party APIs such as Royal Mail, DPD, Exerpian QAS, and Cloudflare;
 - Implemented a fraud detection system, resulting in a 90% reduction in fraudulent activity;
 - Added A/B testing tools to the primary website;
 - Reduced page speed load times by 80% through leveraging HTTP/2, extensive caching, server-side and frontend optimisations, and asynchronous functionality;
-- Upgraded PHP systems from 5.6 to 8.0, and Symfony applications from 2.3 to 5.2;
+- Upgraded PHP systems from 5.6 to 8.0, and Symfony applications from 2.3 to 5.3;
 - Introduced Webpack, React, Jest, and other frontend technologies.
 
 ### **IT Manager**, Universal Textiles (TA: Pertemba) _2015 - 2017_
 
 Responsible for managing a team of developers integrating third-party partners and ecommerce platforms active in over 30 countries and 8 languages.
 
-- Optimised warehouse operation through the implementation of a fluid stock system;
+- Optimised warehouse operations through the implementation of a fluid stock system;
 - Migrated legacy code to object-oriented design on the Slim framework;
 - Developed an automated product image creation and management system;
 - Integrated third-party APIs from suppliers and ecommerce platforms;
@@ -47,8 +50,7 @@ Responsible for ecommerce operations, including automation, marketing, website d
 
 ### **Graduate Diploma in Law**, Nottingham Law School _2011 - 2012_
 
-Studied contract, trust, land, criminal, European Union, constitutional, and tort law.
-Submitted a research project on the adequacy of the provisions for disabled employees in the Equality Act 2010 and was awarded a distinction for that research.
+Studied contract, trust, land, criminal, European Union, constitutional, tort, and employment law.
 
 ### **Theology (Upper Second-Class BA Hons.)**, University of Nottingham _2008 - 2011_
 
