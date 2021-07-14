@@ -2,7 +2,7 @@
 
 ## Summary
 
-Technical Lead with nine years software development and management experience.
+Technical Lead with over nine years software development and management experience.
 
 Developed a wide range of internal and external platforms, websites, and tools in various programming languages including PHP, Javascript, and SQL using various APIs and frameworks such as Symfony and React.
 
@@ -14,7 +14,7 @@ Worked primarily with Agile / Scrum methodologies with a focus on test-driven de
 
 ### **Technical Lead**, Bunches _2017 - Present_
 
-Responsible for designing, developing, and maintaining customer-facing websites and internal production, reporting, content management, customer relationship, and marketing systems.
+Responsible for designing, developing, and maintaining customer-facing websites and internal operations, reporting, content management, customer relationship, and marketing systems.
 
 - Trained developers in test-driven development, DevOps, SOLID design principles, and clean code practices;
 - Introduced a wide range of logging and analytics implementations;
