@@ -21,10 +21,10 @@ Responsible for designing, developing, and maintaining customer-facing websites 
 - Integrated payment providers including Braintree and Stripe;
 - Migrated infrastructure from traditional server architecture to automated container-based builds via Continuous Integration, resulting in a 70% cost saving;
 - Integrated third-party APIs such as Royal Mail, DPD, Exerpian QAS, and Cloudflare;
-- Implemented a fraud detection system, resulting in a 90% reduction in fraudulent activity;
+- Implemented a fraud detection system, resulting in a 98% reduction in fraudulent activity;
 - Added A/B testing tools to the primary website;
 - Reduced page speed load times by 80% through leveraging HTTP/2, extensive caching, server-side and frontend optimisations, and asynchronous functionality;
-- Upgraded PHP systems from 5.6 to 8.0, and Symfony applications from 2.3 to 5.3;
+- Upgraded PHP systems from 5.6 to 8.1, and Symfony applications from 2.3 to 6.0;
 - Introduced Webpack, React, Jest, and other frontend technologies.
 
 ### **IT Manager**, Universal Textiles (TA: Pertemba) _2015 - 2017_
