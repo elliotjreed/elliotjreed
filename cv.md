@@ -2,7 +2,7 @@
 
 ## Summary
 
-Technical Lead with over nine years software development and management experience.
+Technical Lead with ten years software development and management experience.
 
 Developed a wide range of internal and external platforms, websites, and tools in various programming languages including PHP, Javascript, and SQL using various APIs and frameworks such as Symfony and React.
 
@@ -66,15 +66,18 @@ Attended conferences and academic committees, as well as being involved in vario
 - DHL
 - FedEx
 
-### DevOps
+### Services
 
 - GitHub
 - Bitbucket
 - Travis CI
-- JIRA
 - Mailchimp / Mandrill
 - Sendgrid
 - Cloudflare
+- Experian QAS
+- Google Address Lookup
+- JIRA
+- Asana
 
 ### Payment Providers
 
@@ -105,11 +108,6 @@ Attended conferences and academic committees, as well as being involved in vario
 - Shopify
 - Magento
 - Google Shopping
-
-### Services
-
-- Experian QAS
-- Google Address Lookup
 
 ## Portfolio
 
