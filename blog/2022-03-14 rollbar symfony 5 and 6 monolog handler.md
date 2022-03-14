@@ -27,6 +27,8 @@ Rollbar\RollbarLogger:
 
 Monolog\Handler\RollbarHandler:
   class: Monolog\Handler\RollbarHandler
+  arguments:
+    $level: 200
 ```
 
 Then in `monolog.yaml` in either `packages/prod/monolog.yaml` or under `when@prod` in `packages/monolog.yaml` add the following:
