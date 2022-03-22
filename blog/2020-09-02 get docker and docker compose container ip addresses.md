@@ -17,7 +17,7 @@ docker inspect -f "{{range .NetworkSettings.Networks}}{{.IPAddress}}{{end}}" CON
 
 To list all Docker Compose containers and their corresponding IP addresses, run:
 ```bash
-alias dcips='docker inspect -f "{{.Name}}: {{range .NetworkSettings.Networks}}{{.IPAddress}}{{end}}" $(docker ps -aq) | cut -c2-'
+docker inspect -f "{{.Name}}: {{range .NetworkSettings.Networks}}{{.IPAddress}}{{end}}" $(docker ps -aq) | cut -c2-
 ```
 
 You can add these to you `~/.profile`, `~/.bashrc`, or `~/.zshrc` in handy aliases like:
