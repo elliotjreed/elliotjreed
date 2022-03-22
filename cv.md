@@ -17,15 +17,15 @@ Worked primarily with Agile / Scrum methodologies with a focus on test-driven de
 Responsible for designing, developing, and maintaining customer-facing websites and internal operations, reporting, content management, customer relationship, and marketing systems.
 
 - Trained developers in test-driven development, DevOps, SOLID design principles, and clean code practices;
-- Introduced a wide range of logging and analytics implementations;
-- Integrated payment providers including Braintree and Stripe;
-- Migrated infrastructure from traditional server architecture to automated container-based builds via Continuous Integration, resulting in a 70% cost saving;
+- Introduced a wide range of logging and analytics implementations including Elasticsearch / Kibana, Rollbar, Google Analytics, Microsoft Clarity, and TrackJS;
+- Integrated payment providers including Braintree, SagePay, WorldPay, and Stripe;
+- Migrated infrastructure from traditional server architecture to automated container-based builds via Continuous Integration, resulting in a ~70% cost saving;
 - Integrated third-party APIs such as Royal Mail, DPD, Exerpian QAS, and Cloudflare;
-- Implemented a fraud detection system, resulting in a 98% reduction in fraudulent activity;
-- Added A/B testing tools to the primary website;
+- Implemented a fraud detection system, resulting in a ~98% reduction in fraudulent activity;
+- Added and utilised A/B testing tools to the primary website;
 - Reduced page speed load times by 80% through leveraging HTTP/2, extensive caching, server-side and frontend optimisations, and asynchronous functionality;
 - Upgraded PHP systems from 5.6 to 8.1, and Symfony applications from 2.3 to 6.0;
-- Introduced Webpack, React, Jest, and other frontend technologies.
+- Introduced React, Jest, Webpack, and other frontend technologies.
 
 ### **IT Manager**, Universal Textiles (TA: Pertemba) _2015 - 2017_
 
