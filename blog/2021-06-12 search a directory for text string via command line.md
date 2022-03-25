@@ -13,7 +13,7 @@ This will output the following if it is found:
 You can also search recursively in subdirectories by adding the `r` flag, for example:
 
 ```bash
-grep -ri "Text to search for" .
+grep -rni "Text to search for" .
 ```
 
 Which would output the following if the string is found in any file in any directory or subdirectory:
