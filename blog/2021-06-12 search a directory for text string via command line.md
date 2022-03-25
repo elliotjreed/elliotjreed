@@ -26,7 +26,7 @@ If you use this sort of thing a lot, you could always add this to you `~/.profil
 
 ```bash
 # Search current directory for files containing specified string (Usage: searchdir "Search Term")
-search() {
+searchdir() {
   if [[ $# -eq 0 ]] ; then
     echo -e "\e[0;31mPlease provide a string / search term\e[0m"
   else
