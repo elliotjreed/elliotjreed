@@ -6,7 +6,7 @@ Technical Lead with ten years software development and management experience.
 
 Developed a wide range of internal and external platforms, websites, and tools in various programming languages including PHP, Javascript, and SQL using various APIs and frameworks such as Symfony and React.
 
-Set up and maintained hosting systems and continuous integration using Linux, Docker, Ansible, NginX, Git, and various DevOps tools.
+Set up and maintained hosting systems and continuous integration using Linux, Docker, Ansible, NginX, Git, AWS services, and various DevOps tools.
 
 Worked primarily with Agile / Scrum methodologies with a focus on test-driven development and SOLID design principles.
 
@@ -22,6 +22,7 @@ Responsible for designing, developing, and maintaining customer-facing websites 
 - Migrated infrastructure from traditional server architecture to automated container-based builds via Continuous Integration, resulting in a ~70% cost saving;
 - Integrated third-party APIs such as Royal Mail, DPD, Exerpian QAS, and Cloudflare;
 - Implemented a fraud detection system, resulting in a ~98% reduction in fraudulent activity;
+- Developed a personalisable product feature in React, with image moderation using AWS Rekognition for user-uploaded photographs;
 - Added and utilised A/B testing tools to the primary website;
 - Reduced page speed load times by 80% through leveraging HTTP/2, extensive caching, server-side and frontend optimisations, and asynchronous functionality;
 - Upgraded PHP systems from 5.6 to 8.1, and Symfony applications from 2.3 to 6.0;
@@ -76,8 +77,19 @@ Attended conferences and academic committees, as well as being involved in vario
 - Cloudflare
 - Experian QAS
 - Google Address Lookup
+- Google Analytics
+- Microsoft Clarity
+- Rollbar
 - JIRA
 - Asana
+
+### AWS
+
+- S3
+- Rekognition
+- RDS
+- EC2
+- SQS
 
 ### Payment Providers
 
