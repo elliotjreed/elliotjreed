@@ -62,7 +62,11 @@ Attended conferences and academic committees, as well as being involved in vario
 
 ### **Personal Alcohol Licence**, Nottingham City Council, _2013 - Present_
 
+Licenced to sell alcohol on behalf of any business that has a premises licence or a club premises certificate.
+
 ### **First Aid at Work**, St John Ambulance, _2021 - 2024_
+
+Certified to currently accepted first aid practice and in accordance with the Health and Safety (First Aid) Regulations 1981.
 
 ## Technical Integrations
 
