@@ -58,6 +58,12 @@ Studied contract, trust, land, criminal, European Union, constitutional, tort, a
 Submitted a 12 000 word dissertation on economic philosophy and theology.
 Attended conferences and academic committees, as well as being involved in various debates and talks.
 
+## Certifications
+
+### **Personal Alcohol Licence**, Nottingham City Council, _2013 - Present_
+
+### **First Aid at Work**, St John Ambulance, _2021 - 2024_
+
 ## Technical Integrations
 
 ### Couriers
