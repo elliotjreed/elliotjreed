@@ -2,7 +2,7 @@
 
 ## Summary
 
-Technical Lead with over nine years software development and management experience, working primarily with Agile / Scrum methodologies and a focus on test-driven development and SOLID design principles.
+Technical Lead with over nine years software development and management experience, with a focus on test-driven development and SOLID design principles.
 
 Developed a wide range of platforms, websites, and tools in various programming languages including _PHP_, _Javascript_, and _SQL_ using various APIs and frameworks such as _Symfony_ and _React_.
 
@@ -72,7 +72,7 @@ Mailchimp, Affiliate Window, Criteo Platform, Google Tag Manager, Microsoft Clar
 
 ### Amazon Web Services
 
-S3, RDS, EC2, SQS, ElastiCache, Elasticsearch, and Rekognition utilised in various internal and external systems.
+S3, RDS, EC2, SQS, ElastiCache, Elasticsearch, and Rekognition utilised in various systems.
 
 ### E-commerce
 
