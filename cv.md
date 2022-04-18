@@ -2,13 +2,11 @@
 
 ## Summary
 
-Technical Lead with nine years software development and management experience.
+Technical Lead with over nine years software development and management experience, working primarily with Agile / Scrum methodologies and a focus on test-driven development and SOLID design principles.
 
 Developed a wide range of platforms, websites, and tools in various programming languages including _PHP_, _Javascript_, and _SQL_ using various APIs and frameworks such as _Symfony_ and _React_.
 
 Set up and maintained hosting systems and continuous integration using _Linux_, _Docker_, _Ansible_, _NginX_, _Git_, _AWS_, and various DevOps tools.
-
-Worked primarily with Agile / Scrum methodologies with a focus on test-driven development and SOLID design principles.
 
 ## Employment
 
