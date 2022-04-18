@@ -62,78 +62,33 @@ Certified to currently accepted first aid practice and in accordance with the He
 
 ## Technical Integrations
 
-### Services
+### Development Tools and Services
 
-- GitHub
-- Bitbucket
-- Travis CI
-- GitHub Actions
-- Mandrill
-- Sendgrid
-- Cloudinary
-- BrowserStack
-- Cloudflare
-- Experian QAS
-- Rollbar
-- JIRA
-- Asana
+GitHub, Bitbucket, Travis CI, GitHub Actions, Mandrill, Sendgrid, Cloudinary, BrowserStack, Cloudflare, Experian QAS, and Rollbar
+
+### Project Management Tools
+
+JIRA, Todoist, Trello, and Asana.
 
 ### Marketing and Analytics
 
-- CrazyEgg
-- Mailchimp
-- Affiliate Window
-- Criteo Platform
-- Tag Manager
-- Microsoft Clarity
-- Google Analytics
+CrazyEgg, Mailchimp, Affiliate Window, Criteo Platform, Tag Manager, Microsoft Clarity, and Google Analytics.
 
 ### AWS
 
-- S3
-- RDS
-- EC2
-- SQS
-- ElastiCache
-- Elasticsearch
-- Rekognition
+S3, RDS, EC2, SQS, ElastiCache, Elasticsearch, and Rekognition
 
 ### Payment Providers
 
-- Braintree
-- PayPal
-- Stripe
-- Amazon Pay
-- Apple Pay
-- Google Pay
-- SagePay
-- WorldPay
-- HiPay
+Braintree, PayPal, Stripe, Amazon Pay, Apple Pay, Google Pay, SagePay, WorldPay, and HiPay.
 
 ### E-commerce Channels
 
-- eBay
-- Amazon
-- MercadoLibre
-- Allegro
-- Privalia
-- La Redoute
-- CDiscount
-- TradeMe
-- Wish.com
-- Shop.com
-- NewEgg
-- Rakuten
-- Shopify
-- Magento
-- Google Shopping
+eBay, Amazon, MercadoLibre, Allegro, Privalia, La Redoute, CDiscount, TradeMe, Wish.com, Shop.com, NewEgg, Rakuten, Shopify, Magento, and Google Shopping.
 
 ### Couriers
 
-- Royal Mail
-- DPD
-- DHL
-- FedEx
+Royal Mail, DPD, DHL, and FedEx.
 
 ## Portfolio
 
