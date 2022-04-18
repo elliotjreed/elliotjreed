@@ -84,9 +84,9 @@ Certified to currently accepted first aid practice and in accordance with the He
 
 - CrazyEgg
 - Mailchimp
-- Matomo Analytics
 - Google Analytics
 - Microsoft Clarity
+- Matomo Analytics
 - Tag Manager
 - Affiliate Window
 - Criteo
