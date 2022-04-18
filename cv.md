@@ -69,27 +69,26 @@ Certified to currently accepted first aid practice and in accordance with the He
 - GitHub
 - Bitbucket
 - Travis CI
-- GitHub Actions
 - Mandrill
 - Sendgrid
 - Cloudinary
 - BrowserStack
 - Cloudflare
 - Experian QAS
-- Google Address Lookup
 - Rollbar
 - JIRA
 - Asana
-- Todoist
 
 ### Marketing and Analytics
 
-- Google Analytics
-- Microsoft Clarity
 - CrazyEgg
 - Mailchimp
 - Affiliate Window
 - Criteo
+- Matomo Analytics
+- Google Analytics
+- Microsoft Clarity
+- Google Tag Manager
 
 ### AWS
 
@@ -97,6 +96,7 @@ Certified to currently accepted first aid practice and in accordance with the He
 - RDS
 - EC2
 - SQS
+- ElastiCache
 - Rekognition
 
 ### Payment Providers
@@ -127,6 +127,7 @@ Certified to currently accepted first aid practice and in accordance with the He
 - Rakuten
 - Shopify
 - Magento
+- Sylius
 - Google Shopping
 
 ### Couriers
