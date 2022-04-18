@@ -76,9 +76,9 @@ S3, RDS, EC2, SQS, ElastiCache, Elasticsearch, and Rekognition.
 
 ### E-commerce
 
-eBay, Amazon, MercadoLibre, Allegro, Privalia, La Redoute, CDiscount, TradeMe, Wish.com, Shop.com, NewEgg, Rakuten, Shopify, Magento, and Google Shopping.
+eBay, Amazon, MercadoLibre, Allegro, Privalia, La Redoute, CDiscount, TradeMe, Wish.com, Shop.com, NewEgg, Rakuten, Shopify, Magento, and Google Shopping integrated into internal systems.
 
-Braintree, PayPal, Stripe, Amazon Pay, Apple Pay, Google Pay, SagePay, WorldPay, and HiPay integrated as payment providers.
+Braintree, PayPal, Stripe, Amazon Pay, Apple Pay, Google Pay, SagePay, WorldPay, and HiPay added as payment providers.
 
 ### Couriers
 
