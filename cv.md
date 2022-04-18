@@ -4,9 +4,9 @@
 
 Technical Lead with nine years software development and management experience.
 
-Developed a wide range of platforms, websites, and tools in various programming languages including PHP, Javascript, and SQL using various APIs and frameworks such as Symfony and React.
+Developed a wide range of platforms, websites, and tools in various programming languages including _PHP_, _Javascript_, and _SQL_ using various APIs and frameworks such as _Symfony_ and _React_.
 
-Set up and maintained hosting systems and continuous integration using Linux, Docker, Ansible, NginX, Git, AWS, and various DevOps tools.
+Set up and maintained hosting systems and continuous integration using _Linux_, _Docker_, _Ansible_, _NginX_, _Git_, _AWS_, and various DevOps tools.
 
 Worked primarily with Agile / Scrum methodologies with a focus on test-driven development and SOLID design principles.
 
@@ -32,7 +32,7 @@ Responsible for managing a team of developers integrating third-party partners a
 - Integrated third-party APIs from suppliers and e-commerce platforms;
 - Implemented a Scrum-based approach to workload management.
 
-### **Director**, Polyverse _2012 - 2015_
+### **E-Commerce & IT Manager (Director)**, Polyverse _2012 - 2015_
 
 Responsible for e-commerce operations, including automation, marketing, website design, eBay and Amazon management and integrations, and customer service management.
 
@@ -72,6 +72,7 @@ Certified to currently accepted first aid practice and in accordance with the He
 - GitHub Actions
 - Mandrill
 - Sendgrid
+- Cloudinary
 - BrowserStack
 - Cloudflare
 - Experian QAS
@@ -93,22 +94,22 @@ Certified to currently accepted first aid practice and in accordance with the He
 ### AWS
 
 - S3
-- Rekognition
 - RDS
 - EC2
 - SQS
+- Rekognition
 
 ### Payment Providers
 
 - Braintree
 - PayPal
 - Stripe
-- SagePay
-- WorldPay
-- HiPay
 - Amazon Pay
 - Apple Pay
 - Google Pay
+- SagePay
+- WorldPay
+- HiPay
 
 ### E-commerce Channels
 
