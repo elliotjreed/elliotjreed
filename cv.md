@@ -60,35 +60,29 @@ Licenced to sell alcohol on behalf of any business that has a premises licence o
 
 Certified to currently accepted first aid practice and in accordance with the Health and Safety (First Aid) Regulations 1981.
 
-## Technical Integrations
+## Integrations and Services
 
-### Development Tools and Services
+### DevOps and Project Management
 
-GitHub, Bitbucket, Travis CI, GitHub Actions, Mandrill, Sendgrid, Cloudinary, BrowserStack, Cloudflare, Experian QAS, and Rollbar
-
-### Project Management Tools
-
-JIRA, Todoist, Trello, and Asana.
+GitHub, Bitbucket, Travis CI, GitHub Actions, Mandrill, Sendgrid, Cloudinary, BrowserStack, Cloudflare, Experian QAS, and Rollbar. JIRA, Todoist, Trello, and Asana used for project management.
 
 ### Marketing and Analytics
 
-CrazyEgg, Mailchimp, Affiliate Window, Criteo Platform, Tag Manager, Microsoft Clarity, and Google Analytics.
+Mailchimp, Affiliate Window, Criteo Platform, Google Tag Manager, Microsoft Clarity, Google Analytics, and CrazyEgg.
 
-### AWS
+### Amazon Web Services
 
-S3, RDS, EC2, SQS, ElastiCache, Elasticsearch, and Rekognition
+S3, RDS, EC2, SQS, ElastiCache, Elasticsearch, and Rekognition.
 
-### Payment Providers
-
-Braintree, PayPal, Stripe, Amazon Pay, Apple Pay, Google Pay, SagePay, WorldPay, and HiPay.
-
-### E-commerce Channels
+### E-commerce
 
 eBay, Amazon, MercadoLibre, Allegro, Privalia, La Redoute, CDiscount, TradeMe, Wish.com, Shop.com, NewEgg, Rakuten, Shopify, Magento, and Google Shopping.
 
+Braintree, PayPal, Stripe, Amazon Pay, Apple Pay, Google Pay, SagePay, WorldPay, and HiPay integrated as payment providers.
+
 ### Couriers
 
-Royal Mail, DPD, DHL, and FedEx.
+Royal Mail (REST and SOAP shipment APIs, tracking API), DPD, DHL, and FedEx.
 
 ## Portfolio
 
