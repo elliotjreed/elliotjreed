@@ -86,9 +86,9 @@ Certified to currently accepted first aid practice and in accordance with the He
 - Mailchimp
 - Criteo
 - Affiliate Window
+- Tag Manager
 - Microsoft Clarity
 - Google Analytics
-- Tag Manager
 
 ### AWS
 
