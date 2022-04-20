@@ -4,7 +4,9 @@
 
 Technical Lead with over nine years software development and management experience, with a focus on test-driven development and SOLID design principles.
 
-Developed a wide range of platforms, websites, and tools in various programming languages including _PHP_, _Javascript_, and _SQL_ with various APIs and frameworks such as _Symfony_ and _React_, using _Linux_, _Docker_, _Ansible_, _NginX_, _Git_, and _AWS_.
+Developed a wide range of platforms, websites, and tools in various programming languages including _PHP_, _Javascript_, and _SQL_ with various APIs and frameworks such as _Symfony_ and _React_.
+
+Set up and maintained servers and continuous integration pipelines using _Linux_, _Docker_, _Ansible_, _NginX_, _Git_, and _AWS_.
 
 ## Employment
 
@@ -12,7 +14,7 @@ Developed a wide range of platforms, websites, and tools in various programming 
 
 Responsible for designing, developing, and maintaining customer-facing websites and internal operations, reporting, content management, customer relationship, and marketing systems.
 
-- Trained developers in test-driven development, SOLID design principles, and clean code practices;
+- Trained developers in test-driven development, SOLID design and clean code practices;
 - Introduced a wide range of logging analytics, and A/B testing tools including Elasticsearch / Kibana, Rollbar, Google Analytics, Microsoft Clarity, and TrackJS;
 - Changed payment providers from SagePay and WorldPay to Braintree and Stripe, reducing the checkout time by half and saving ~30% on transaction fees;
 - Migrated infrastructure from traditional server architecture to automated container-based builds via Continuous Integration, resulting in a ~70% cost saving;
@@ -33,10 +35,9 @@ Responsible for managing a team of developers integrating third-party partners a
 
 Responsible for e-commerce operations, including automation, marketing, website design, eBay and Amazon management and integrations, and customer service management.
 
-- Developed websites and internal systems in PHP, Python, MySQL, and frontend technologies;
-- Designed and implemented several Magento-based e-commerce websites;
-- Managed Google and Facebook PPC advertising, and multi-channel content;
-- Managed customer service, warehouse, and administrative teams, budgets, and external suppliers.
+- Designed and implemented several Magento-based e-commerce websites and internal systems in PHP, Python, MySQL, and Javascript;
+- Managed Google and Facebook PPC advertising, and multi-channel content on eBay and Amazon;
+- Managed customer service, warehouse, and administrative teams, budgets, and suppliers.
 
 ## Education
 
