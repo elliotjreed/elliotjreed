@@ -48,6 +48,7 @@ Responsible for e-commerce operations and software development.
 ### **Graduate Diploma in Law**, Nottingham Law School _2011 - 2012_
 
 Studied contract, trust, land, criminal, European Union, constitutional, tort, and employment law.
+Took part in negotiation competitions, mooting, and voluntary legal work.
 
 ### **Theology (Upper Second-Class BA Hons.)**, University of Nottingham _2008 - 2011_
 
