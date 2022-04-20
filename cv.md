@@ -64,7 +64,11 @@ Licenced to sell alcohol on behalf of any business that has a premises licence o
 
 Certified to currently accepted first aid practice and in accordance with the Health and Safety (First Aid) Regulations 1981.
 
-## Integrations and Services
+## Skills, Integrations, and Services
+
+### Software Development
+
+PHP, Javascript, Symfony, React, CSS, SASS / SCSS, LESS, Bash / Shell, MySQL / MariaDB, Postgres, SQLite, and some Python and Go.
 
 ### DevOps
 
@@ -72,7 +76,7 @@ GitHub, Bitbucket, Travis CI, GitHub Actions, Mandrill, Sendgrid, Cloudinary, Br
 
 ### Project Management
 
-JIRA, Todoist, Trello, BaseCamp, and Asana used for project management.
+JIRA, Todoist, Trello, BaseCamp, and Asana.
 
 ### Marketing and Analytics
 
@@ -80,15 +84,15 @@ Mailchimp, Affiliate Window, Criteo Platform, Google Tag Manager, Microsoft Clar
 
 ### Amazon Web Services
 
-S3, RDS, EC2, SQS, ElastiCache, Elasticsearch, and Rekognition utilised in various systems.
+S3, RDS, EC2, SQS, ElastiCache, Elasticsearch, and Rekognition.
 
 ### E-commerce Channels
 
-eBay, Amazon, MercadoLibre, Allegro, Privalia, La Redoute, CDiscount, TradeMe, Wish.com, Shop.com, NewEgg, Rakuten, Shopify, and Magento integrated into internal systems.
+eBay, Amazon, MercadoLibre, Allegro, Privalia, La Redoute, CDiscount, TradeMe, Wish.com, Shop.com, NewEgg, Rakuten, Shopify, and Magento.
 
 ### Payment Providers
 
-Braintree, PayPal, Stripe, Amazon Pay, Apple Pay, Google Pay, SagePay, WorldPay, and HiPay added as payment providers.
+Braintree, PayPal, Stripe, Amazon Pay, Apple Pay, Google Pay, SagePay, WorldPay, and HiPay.
 
 ### Couriers
 
