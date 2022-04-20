@@ -12,7 +12,7 @@ Set up and maintained servers and continuous integration pipelines using _Linux_
 
 ### **Technical Lead**, Bunches _2017 - Present_
 
-Responsible for designing, developing, and maintaining customer-facing websites and internal operations, reporting, content management, customer relationship, and marketing systems.
+Responsible for designing, developing, and maintaining customer-facing websites and internal systems; and training and mentoring developers.
 
 - Trained developers in test-driven development, SOLID design and clean code practices;
 - Introduced a wide range of logging analytics, and A/B testing tools including Elasticsearch / Kibana, Rollbar, and Google Analytics;
@@ -36,7 +36,7 @@ Responsible for managing a team of developers integrating third-party partners a
 
 ### **E-Commerce & IT Manager (Director)**, Polyverse _2012 - 2015_
 
-Responsible for e-commerce operations, including automation, marketing, website design, eBay and Amazon management and integrations, and customer service management.
+Responsible for e-commerce operations and software development.
 
 - Designed and implemented several Magento-based websites and internal systems in PHP, Python, MySQL, and Javascript;
 - Managed Google and Facebook PPC advertising, and multi-channel content on eBay and Amazon;
@@ -66,21 +66,27 @@ Certified to currently accepted first aid practice and in accordance with the He
 
 ## Integrations and Services
 
-### DevOps and Project Management
+### DevOps
 
-GitHub, Bitbucket, Travis CI, GitHub Actions, Mandrill, Sendgrid, Cloudinary, BrowserStack, Cloudflare, Experian QAS, and Rollbar. JIRA, Todoist, Trello, and Asana used for project management.
+GitHub, Bitbucket, Travis CI, GitHub Actions, Mandrill, Sendgrid, Cloudinary, BrowserStack, Cloudflare, Experian QAS, and Rollbar.
+
+### Project Management
+
+JIRA, Todoist, Trello, BaseCamp, and Asana used for project management.
 
 ### Marketing and Analytics
 
-Mailchimp, Affiliate Window, Criteo Platform, Google Tag Manager, Microsoft Clarity, Google Analytics, Google Shopping, and CrazyEgg.
+Mailchimp, Affiliate Window, Criteo Platform, Google Tag Manager, Microsoft Clarity, Google Analytics, Google Shopping, Google Optimize, and CrazyEgg.
 
 ### Amazon Web Services
 
 S3, RDS, EC2, SQS, ElastiCache, Elasticsearch, and Rekognition utilised in various systems.
 
-### E-commerce
+### E-commerce Channels
 
 eBay, Amazon, MercadoLibre, Allegro, Privalia, La Redoute, CDiscount, TradeMe, Wish.com, Shop.com, NewEgg, Rakuten, Shopify, and Magento integrated into internal systems.
+
+### Payment Providers
 
 Braintree, PayPal, Stripe, Amazon Pay, Apple Pay, Google Pay, SagePay, WorldPay, and HiPay added as payment providers.
 
