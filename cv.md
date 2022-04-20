@@ -20,8 +20,9 @@ Responsible for designing, developing, and maintaining customer-facing websites 
 - Migrated infrastructure from traditional server architecture to automated container-based builds via Continuous Integration, resulting in a ~70% cost saving;
 - Implemented a fraud detection system, resulting in a ~98% reduction in fraudulent activity;
 - Refactored and separated internal systems, upgrading from PHP 5.6 on a custom-built backend to PHP 7.0 (now 8.1) on Symfony resulting in a significant increase in development velocity;
-- Upgraded the primary website from Symfony 2.3 on PHP 5.6 to Symfony 6.0 on PHP 8.1 and React;
+- Upgraded the primary website from Symfony 2.3 (PHP 5.6) to Symfony 6.0 (PHP 8.1) and React;
 - Developed a product personalisation section in React for user-uploaded photographs, with image moderation via AWS Rekognition API, and in-house printing;
+- Migrated two large separate databases with 20 years of data into one normalised, AWS RDS database; 
 - Implemented a stock system to facilitate lean business practices for highly perishable products.
 
 ### **IT Manager**, Universal Textiles (TA: Pertemba) _2015 - 2017_
@@ -40,8 +41,7 @@ Responsible for e-commerce operations and software development.
 - Designed and implemented several Magento-based websites and internal systems in PHP, Python, MySQL, and Javascript;
 - Managed Google and Facebook PPC advertising, and multi-channel content on eBay and Amazon;
 - Implemented a digital pick, pack, and dispatch process to reduce order errors to under 1%;
-- Managed customer service, warehouse, and administrative teams, budgets, and suppliers.;
-- In a slight sidestep from the norm, set up and managed a hospitality / entertainment venue in Nottingham city centre.
+- Managed customer service, warehouse, and administrative teams, budgets, and suppliers.
 
 ## Education
 
