@@ -14,12 +14,13 @@ Set up and maintained hosting systems and continuous integration using _Linux_, 
 
 Responsible for designing, developing, and maintaining customer-facing websites and internal operations, reporting, content management, customer relationship, and marketing systems.
 
-- Trained developers in test-driven development, DevOps, SOLID design principles, and clean code practices;
+- Trained developers in test-driven development, SOLID design principles, and clean code practices;
 - Introduced a wide range of logging analytics, and A/B testing tools including Elasticsearch / Kibana, Rollbar, Google Analytics, Microsoft Clarity, and TrackJS;
-- Integrated payment providers including Braintree, SagePay, WorldPay, and Stripe;
+- Changed payment providers from SagePay and WorldPay to Braintree and Stripe, reducing the checkout time by half and saving ~30% on transaction fees;
 - Migrated infrastructure from traditional server architecture to automated container-based builds via Continuous Integration, resulting in a ~70% cost saving;
 - Implemented a fraud detection system, resulting in a ~98% reduction in fraudulent activity;
-- Upgraded PHP systems from 5.6 to 8.1, and Symfony applications from 2.3 to 6.0.
+- Refactored and separated internal systems, upgrading from PHP 5.6 on a custom-built backend to PHP 7.0 (now 8.1) on Symfony resulting in a significant increase in development velocity;
+- Upgraded the primary website from Symfony 2.3 with jQuery on PHP 5.6 to Symfony 6.0 on PHP 8.1 and React JS and SASS.
 
 ### **IT Manager**, Universal Textiles (TA: Pertemba) _2015 - 2017_
 
