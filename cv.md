@@ -40,7 +40,8 @@ Responsible for e-commerce operations and software development.
 - Designed and implemented several Magento-based websites and internal systems in PHP, Python, MySQL, and Javascript;
 - Managed Google and Facebook PPC advertising, and multi-channel content on eBay and Amazon;
 - Implemented a digital pick, pack, and dispatch process to reduce order errors to under 1%;
-- Managed customer service, warehouse, and administrative teams, budgets, and suppliers.
+- Managed customer service, warehouse, and administrative teams, budgets, and suppliers.;
+- In a slight sidestep from the norm, set up and managed a hospitality / entertainment venue in Nottingham city centre.
 
 ## Education
 
