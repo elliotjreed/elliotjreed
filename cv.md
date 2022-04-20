@@ -22,8 +22,7 @@ Responsible for designing, developing, and maintaining customer-facing websites 
 - Refactored and separated internal systems, upgrading from PHP 5.6 on a custom-built backend to PHP 7.0 (now 8.1) on Symfony resulting in a significant increase in development velocity;
 - Upgraded the primary website from Symfony 2.3 with jQuery on PHP 5.6 to Symfony 6.0 on PHP 8.1 and React JS and SASS;
 - Developed a product personalisation section in React for user-uploaded photographs, with image moderation via AWS Rekognition API, and in-house printing;
-- Implemented a stock management system to facilitate lean business practices for fast-moving perishable stock;
-- Currently refactoring the primary website to become an SPA on React 18.
+- Implemented a stock system to facilitate lean business practices for fast-moving perishable stock.
 
 ### **IT Manager**, Universal Textiles (TA: Pertemba) _2015 - 2017_
 
