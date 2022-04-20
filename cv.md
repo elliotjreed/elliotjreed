@@ -15,12 +15,12 @@ Set up and maintained servers and continuous integration pipelines using _Linux_
 Responsible for designing, developing, and maintaining customer-facing websites and internal operations, reporting, content management, customer relationship, and marketing systems.
 
 - Trained developers in test-driven development, SOLID design and clean code practices;
-- Introduced a wide range of logging analytics, and A/B testing tools including Elasticsearch / Kibana, Rollbar, Google Analytics, Microsoft Clarity, and TrackJS;
+- Introduced a wide range of logging analytics, and A/B testing tools including Elasticsearch / Kibana, Rollbar, and Google Analytics;
 - Changed payment providers from SagePay and WorldPay to Braintree and Stripe, reducing the checkout time by half and saving ~30% on transaction fees;
 - Migrated infrastructure from traditional server architecture to automated container-based builds via Continuous Integration, resulting in a ~70% cost saving;
 - Implemented a fraud detection system, resulting in a ~98% reduction in fraudulent activity;
 - Refactored and separated internal systems, upgrading from PHP 5.6 on a custom-built backend to PHP 7.0 (now 8.1) on Symfony resulting in a significant increase in development velocity;
-- Upgraded the primary website from Symfony 2.3 with jQuery on PHP 5.6 to Symfony 6.0 on PHP 8.1 and React JS and SASS;
+- Upgraded the primary website from Symfony 2.3 on PHP 5.6 to Symfony 6.0 on PHP 8.1 and React;
 - Developed a product personalisation section in React for user-uploaded photographs, with image moderation via AWS Rekognition API, and in-house printing;
 - Implemented a stock system to facilitate lean business practices for fast-moving perishable stock.
 
@@ -38,7 +38,7 @@ Responsible for managing a team of developers integrating third-party partners a
 
 Responsible for e-commerce operations, including automation, marketing, website design, eBay and Amazon management and integrations, and customer service management.
 
-- Designed and implemented several Magento-based e-commerce websites and internal systems in PHP, Python, MySQL, and Javascript;
+- Designed and implemented several Magento-based websites and internal systems in PHP, Python, MySQL, and Javascript;
 - Managed Google and Facebook PPC advertising, and multi-channel content on eBay and Amazon;
 - Implemented a digital pick, pack, and dispatch process to reduce order errors to under 1%;
 - Managed customer service, warehouse, and administrative teams, budgets, and suppliers.
