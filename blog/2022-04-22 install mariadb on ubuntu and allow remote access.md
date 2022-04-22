@@ -163,3 +163,9 @@ and run:
 ```sql
 CREATE DATABASE mydatabase;
 ```
+
+If you are using `ufw` to manage firewall rules, ensure port 3306 is open by running the following in the Linux commend line:
+
+```bash
+ufw allow mysql
+```
