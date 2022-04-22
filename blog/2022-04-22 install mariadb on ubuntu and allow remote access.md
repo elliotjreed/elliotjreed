@@ -50,11 +50,13 @@ Next to run the secure installation script, run:
 mysql_secure_installation
 ```
 
+It will ask you for the current root password, this will be empty by default so just hit "enter".
+
 ```bash
 Enter current password for root (enter for none): 
 ```
 
-It will ask you for the current root password, this will be empty by default so just hit "enter".
+Now enter "y" and then enter a strong password. Then enter it again to confirm when it asks.
 
 ```bash
 OK, successfully used password, moving on...
@@ -65,31 +67,29 @@ root user without the proper authorisation.
 Set root password? [Y/n]
 ```
 
-Now enter "y" and then enter a strong password. Then enter it again to confirm when it asks.
+Enter "y" again to remove the anonymous users.
 
 ```bash
 Remove anonymous users? [Y/n]
 ```
 
-Enter "y" again to remove the anonymous users.
+Enter "y" here too to prevent remote login as the root user (we'll set up a separate user for logging in remotely shortly).
 
 ```bash
 Disallow root login remotely? [Y/n] 
 ```
 
-Enter "y" here too (we'll set up a separate user for logging in remotely shortly).
+Again enter "y" here as you won't need the test database.
 
 ```bash
 Remove test database and access to it? [Y/n] 
 ```
 
-Again enter "y" here, you don't need the test database.
+And again enter "y" to reload the privilege tables.
 
 ```bash
 Reload privilege tables now? [Y/n] 
 ```
-
-And again enter "y" here.
 
 Now you should be able to access MariaDB by running the following and entering the password from earlier when prompted:
 
@@ -115,8 +115,6 @@ Now you should be able to access MariaDB using your new username and password:
 ```bash
 mysql -uelliot -p
 ```
-
-
 
 If you want to be able to access the database remotely you will need to comment-out the `bind-address` line in `/etc/mysql/mariadb.conf.d/50-server.cnf`:
 
