@@ -1,4 +1,4 @@
-# Install MariaBD (MySQL) on Ubuntu 20.04 or 22.04 and allow remote access
+# Install MariaBD (MySQL) on Ubuntu 20.04 to 22.04 and allow remote access
 
 The following assumes you are logged in as the `root` user on your system.
 
