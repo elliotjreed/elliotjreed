@@ -52,7 +52,7 @@ mysql_secure_installation
 
 ```bash
 Enter current password for root (enter for none): 
-```bash
+```
 
 It will ask you for the current root password, this will be empty by default so just hit "enter".
 
