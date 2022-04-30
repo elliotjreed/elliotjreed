@@ -122,6 +122,8 @@ If you want to be able to access the database remotely you will need to comment-
 nano /etc/mysql/mariadb.conf.d/50-server.cnf
 ```
 
+Note: to save the file in the `nano` text editor it's "ctrl+w", then to exit it's "ctrl+x".
+
 Find the following line:
 
 ```
