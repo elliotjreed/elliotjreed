@@ -25,7 +25,7 @@ Responsible for designing, developing, and maintaining customer-facing websites 
 - Migrated two large separate databases with 20 years of data into one normalised, AWS RDS database resulting in a significant reduction in manual data processing; 
 - Implemented a stock system to facilitate lean business practices for highly perishable products.
 
-### **IT Manager**, Universal Textiles (TA: Pertemba) _2015 - 2017_
+### **Software Development Manager**, Universal Textiles (TA: Pertemba) _2015 - 2017_
 
 Responsible for managing a team of developers integrating third-party partners and e-commerce platforms active in over 30 countries and 8 languages.
 
