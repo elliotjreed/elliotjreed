@@ -63,7 +63,7 @@ Licenced to sell alcohol on behalf of businesses that have a premises licence or
 
 ### **First Aid at Work**, St John Ambulance, _2021 - 2024_
 
-Certified to currently accepted first aid practicees and in accordance with the Health and Safety (First Aid) Regulations 1981.
+Certified to currently accepted first aid practices and in accordance with the Health and Safety (First Aid) Regulations 1981.
 
 ## Skills, Integrations, and Services
 
