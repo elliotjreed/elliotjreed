@@ -18,14 +18,14 @@ Responsible for designing, developing, and maintaining customer-facing websites 
 - Introduced a wide range of logging, analytics, and A/B testing tools including Elasticsearch / Kibana, Rollbar, and Google Analytics;
 - Changed payment providers from SagePay and WorldPay to Braintree and Stripe, reducing the checkout time by half and saving ~30% on transaction fees;
 - Migrated infrastructure from traditional server architecture to automated container-based builds via Continuous Integration, resulting in a ~70% cost saving;
-- Implemented a fraud detection system, resulting in a ~98% reduction in fraudulent activity;
+- Implemented a fraud detection system, resulting in a 98% reduction in fraudulent activity;
 - Refactored and separated internal systems, upgrading from PHP 5.6 on a custom-built backend to PHP 7.0 (now 8.1) on Symfony resulting in a significant increase in development velocity;
 - Upgraded the primary website from Symfony 2.3 (PHP 5.6) to Symfony 6.0 (PHP 8.1) and React;
 - Developed a product personalisation section in React for user-uploaded photographs, with image moderation via AWS Rekognition API, and in-house printing;
-- Migrated two large separate databases with 20 years of data into one normalised, AWS RDS database resulting in a significant reduction in manual data processing; 
+- Migrated two large separate databases with 25 years of data into one normalised, AWS RDS database resulting in a significant reduction in manual data processing; 
 - Implemented a stock system to facilitate lean business practices for highly perishable products.
 
-### **IT Manager**, Universal Textiles (TA: Pertemba) _2015 - 2017_
+### **Software Development Manager**, Universal Textiles (TA: Pertemba) _2015 - 2017_
 
 Responsible for managing a team of developers integrating third-party partners and e-commerce platforms active in over 30 countries and 8 languages.
 
