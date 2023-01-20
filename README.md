@@ -5,13 +5,10 @@
   <a href="https://www.linkedin.com/in/elliotjreed"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 </p>
 <p align="center">
-Hello! I’m Elliot, a software developer / technical lead based in Nottingham, United Kingdom. I generally like working on and playing around with PHP, Javascript, Linux, Docker, and general DevOps.
+Hello! I’m Elliot, a software developer / engineering manager based in Nottingham, United Kingdom. I generally like working on and playing around with PHP, Javascript, Linux, Docker, and general DevOps.
 </p>
 <p align="center">
 Feel free to use any of the code hosted here on GitHub, and if you have any questions or issues give me a shout.
-</p>
-<p align="center">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=elliotjreed&hide_rank=true&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&theme=nightowl" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elliotjreed&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&theme=nightowl" />
 </p>
 
 <p align="center">
