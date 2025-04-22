@@ -1,14 +1,12 @@
 <h1 align="center"><a href="https://www.elliotjreed.com?utm_source=github-profile" rel="noopener noreferrer">Elliot J. Reed</a></h1>
+<h2 align="center"><a href="https://www.elliotjreed.com?utm_source=github-profile" rel="noopener noreferrer">www.elliotjreed.com</a></h2>
 
 <p align="center">
-  <a href="https://twitter.com/elliotjreed"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
-  <a href="https://www.linkedin.com/in/elliotjreed"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+Hello! I’m Elliot, I work in e-commerce and software development in Nottingham, United Kingdom. I generally like working on and playing around with PHP, Javascript, Linux, AI, Docker, and general DevOps. 
 </p>
+
 <p align="center">
-Hello! I’m Elliot, a software developer / engineering manager based in Nottingham, United Kingdom. I generally like working on and playing around with PHP, Javascript, Linux, Docker, and general DevOps.
-</p>
-<p align="center">
-Feel free to use any of the code hosted here on GitHub, and if you have any questions or issues give me a shout.
+If you work in the non-profit or charity sector I may be able to provide advice on responsible AI implementation, website and app development and hosting, and general general software development free of charge. Feel free to get in contact!
 </p>
 
 <p align="center">

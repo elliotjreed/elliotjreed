@@ -2,15 +2,17 @@
 
 ## Summary
 
-Technical Lead with over nine years software development and management experience, with a focus on test-driven development and SOLID design principles.
-
-Developed a wide range of platforms, websites, and tools in various programming languages including _PHP_, _Javascript_, and _SQL_ with various APIs and frameworks such as _Symfony_ and _React_.
-
-Set up and maintained servers and continuous integration pipelines using _Linux_, _Docker_, _Ansible_, _NginX_, _Git_, and _AWS_.
+Experienced senior manager in e-commerce, technology, and software development.
 
 ## Employment
 
-### **Technical Lead**, Bunches _2017 - Present_
+### Bunches _2017 - Present_
+
+#### **Engineering Manager**, _2022_ to _present_
+
+Responsible for technical operations and wider business strategy. Currently leading on responsible AI implementation across the business, both browser-based application and API implementation into internal systems.
+
+#### **Technical Lead**, _2017_ to _2022_
 
 Responsible for designing, developing, and maintaining customer-facing websites and internal systems; and training and mentoring developers.
 
@@ -95,10 +97,10 @@ eBay, Amazon, MercadoLibre, Allegro, Privalia, La Redoute, CDiscount, TradeMe, W
 
 Braintree, PayPal, Stripe, Amazon Pay, Apple Pay, Google Pay, SagePay, WorldPay, and HiPay.
 
+### AI
+
+OpenAI ChatGPT, Anthropic Claude, and Google Gemini.
+
 ### Couriers
 
-Royal Mail (REST and SOAP shipment APIs, tracking API), DPD, DHL, and FedEx.
-
-## Portfolio
-
-For current and recent projects see [github.com/elliotjreed](https://github.com/elliotjreed "GitHub profile") and [www.elliotjreed.com](https://www.elliotjreed.com?utm_source=cv "Personal website").
+Royal Mail (REST and SOAP shipment APIs, tracking API), GFS, DPD, DHL, and FedEx.
