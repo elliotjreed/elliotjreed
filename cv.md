@@ -63,9 +63,13 @@ Attended conferences and academic committees, as well as being involved in vario
 
 Licenced to sell alcohol on behalf of businesses that have a premises licence or a club premises certificate.
 
-### **First Aid at Work**, St John Ambulance, _2021 - 2024_
+### **First Aid at Work**, St John Ambulance, _2021 - 2027_
 
 Certified to currently accepted first aid practices and in accordance with the Health and Safety (First Aid) Regulations 1981.
+
+### **Level 3 Food Hygiene and Safety Supervisor**, Essential Food Hygiene, _2025_
+
+Industry certified training course ensuring food handlers meet UK/EU standards for Food Hygiene.
 
 ## Skills, Integrations, and Services
 
