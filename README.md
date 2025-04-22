@@ -1,5 +1,5 @@
-<h1 align="center"><a href="https://www.elliotjreed.com?utm_source=github-profile" rel="noopener noreferrer">Elliot J. Reed</a></h1>
-<h2 align="center"><a href="https://www.elliotjreed.com?utm_source=github-profile" rel="noopener noreferrer">www.elliotjreed.com</a></h2>
+<h1 align="center">Elliot J. Reed</h1>
+<h3 align="center"><a href="https://www.elliotjreed.com?utm_source=github-profile" rel="noopener noreferrer">www.elliotjreed.com</a></h3>
 
 <p align="center">
 Hello! I’m Elliot, I work in e-commerce and software development in Nottingham, United Kingdom. I generally like working on and playing around with PHP, Javascript, Linux, AI, Docker, and general DevOps. 
